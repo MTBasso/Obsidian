@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"2809affad8e1a548","x":-240,"y":-160,"width":116,"height":50,"type":"text","text":"PkmTD"},
+		{"id":"fe08af3c7e31792d","x":-60,"y":-260,"width":140,"height":60,"color":"1","type":"text","text":"Characters"}
+	],
+	"edges":[
+		{"id":"48fb9c86840bc78c","fromNode":"2809affad8e1a548","fromSide":"right","toNode":"fe08af3c7e31792d","toSide":"left"}
+	]
+}
